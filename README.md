@@ -2,6 +2,6 @@
 
 Here's the file you should read: https://github.com/mvongjesda/01-Excel-Homework/blob/master/Homework%201%20WriteUp_MV.docx
 
-Conclusion goes here:
+Conclusion goes here: afs dfeg 
 
 Add screenshots to make your conclusion easier to read.
