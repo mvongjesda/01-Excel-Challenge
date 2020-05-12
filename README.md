@@ -1,10 +1,10 @@
 # 01-Excel-Homework
 
-Here's the file you should read: Homework 1_StarterBook_Marsha_Vongjesda.xlsx
+The analysis file: Homework 1_StarterBook_Marsha_Vongjesda.xlsx
 
 
 
-Conclusion goes here:  
+Conclusion:  
 1.	Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
     a.	Of successful Kickstarter campaigns, the most count of successful campaigns were among the categories of Theater, Music, and Film         & Video.
     b.	Theater had the greatest number of successful campaigns.  Of the sub-categories of Theater, Plays had the most successful                 campaigns.
