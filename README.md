@@ -1,6 +1,6 @@
 # 01-Excel-Challenge
 
-This challenge analyzes Excel data from the 4,000 past projects of the crowdfunding service Kickstarter in order to find market trends.
+This challenge analyzes Excel data from 4,000 past projects of the crowdfunding service Kickstarter in order to find market trends.
 
 
 ### Conclusions:  
