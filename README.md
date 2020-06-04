@@ -3,8 +3,8 @@
 This challenge analyzes Excel data from the 4,000 past projects of the crowdfunding service Kickstarter in order to find market trends.
 
 
-Conclusions:  
-1.	Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?  
+### Conclusions:  
+1.	From the dataset of 4,000 past projects, these trends can be drawn:
 
     a.	Of successful Kickstarter campaigns, the most count of successful campaigns were among the categories of Theater, Music, and Film         & Video.  
     
@@ -14,9 +14,9 @@ Conclusions:
     
 2.	What are some limitations of this dataset?  
 
-    a.	Less than 10 years of data (from 2009-2017, don’t know if trends changed in 2018 or 2019)
-    b.	Less than 5,000 campaigns (can be more)
+    a.	Less than 10 years of data (The dataset is from 2009-2017, so missing most recent data if trends have changed since then)  
+    
+    b.	Less than 5,000 campaigns (more data can be used in future studies)  
+    
     c.	We don’t know how much each backer donated
-3.	What are some other possible tables and/or graphs that we could create?
-    a.	Pie chart of the categories
-    b.	Bar chart of the Countries each campaign was launched
+
